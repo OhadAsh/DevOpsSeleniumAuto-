@@ -9,6 +9,7 @@
   "author": "OhadSaharReut",
   "license": "MIT",
   "dependencies": {
+    "geckodriver": "^1.20.0",
     "selenium-webdriver": "^4.0.0-alpha.7"
   }
 }
